@@ -22,6 +22,5 @@ Feel free to fork this project 🍴 or do whatever you like with this project �
 ⭐ Would appreciate if you can star this project 🥰
 
 ## 👾 Other Mini-Games
-Catch A Cat : https://github.com/snowiewdev/CatchACat
-
+Catch A Cat : https://github.com/snowiewdev/CatchACat <br/>
 Connect Four : https://github.com/snowiewdev/connectFour
