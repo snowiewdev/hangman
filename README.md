@@ -15,9 +15,9 @@ Try it now: https://reactjs-hangman-minigame.netlify.app/
 <img src="/media/screenshot4.png" width="600"/>
 
 ## 📝 License
-MIT license, read details in LICENSE.md
+MIT license, view details in LICENSE.md
 
-Feel free to fork this project 🍴
+Feel free to fork this project 🍴 or do whatever you like with this project 🤣
 
 ⭐ Would appreciate if you can star this project 🥰
 
